@@ -1,5 +1,5 @@
 {
-  "name": "shad/Daniyel",
+  "name": "shad/daniyel",
   "description": "ShadBot is a lightweight PHP library designed to automate interactions with the Shad educational platform. It provides a flexible and developer-friendly interface for building self-bots that can authenticate, send messages, manage sessions, and interact with Shad’s API endpoints.",
   "version": "v1.0.0",
   "type": "library",
