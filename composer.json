@@ -33,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "shad\\": "shad/"
+      "shad\\": "./"
     }
   },
   "require-dev": {
