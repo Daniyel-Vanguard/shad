@@ -21,7 +21,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": ""
+      "url": "https://github.com/Daniyel-Vanguard/shad.git"
     }
   ],
   "require": {
